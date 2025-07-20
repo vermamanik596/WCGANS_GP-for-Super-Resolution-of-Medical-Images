@@ -201,7 +201,7 @@ Validation with medical professionals indicates the super-resolved images mainta
 
 ## Acknowledgments
 
-This project was developed by Pravinkumar Gohil
+This project was developed by Manik Verma
 
 I acknowledge the creators of the Chest X-Ray Pneumonia dataset and the foundational work on Wasserstein GANs and image super-resolution that made this project possible.
 
