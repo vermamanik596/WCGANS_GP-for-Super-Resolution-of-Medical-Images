@@ -92,7 +92,8 @@ Our model achieves state-of-the-art performance for medical image super-resoluti
 
 ## Generated Sample Images
 
-![Figure-4: Gnerated Sample Images](images/gen_img_1000_7.png)
+<img width="1464" height="1990" alt="image" src="https://github.com/user-attachments/assets/989ab170-caf1-45e7-aa32-a3268b6fa54f" />
+
 
 ## Progression of Training
 
@@ -111,7 +112,8 @@ The model shows clear quality improvement throughout training:
 | 821   | 26.81     | 0.778| Enhanced mediastinal structures |
 | 921   | 28.74     | 0.793| Near-diagnostic quality |
 
-![Figure-5: PSNR and SSIM Progression Images](images/PSNR-.png)
+<img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/f47a95c4-091a-497d-993c-194ad315380f" />
+
 
 ## Usage Instructions
 
