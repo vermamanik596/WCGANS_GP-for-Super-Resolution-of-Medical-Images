@@ -173,7 +173,8 @@ The discriminator loss stabilizes around 9.67-9.68, indicating proper Wasserstei
 
 ## Loss Curves ( Training Loss, PSNR, SSIM )
 
-![Figure-6: Training Progress Chart (PSNR, SSIM, D & G_Loss)](images/charts_1000_7.png)
+<img width="1990" height="990" alt="image" src="https://github.com/user-attachments/assets/ca03f57d-dd12-4b35-882d-bc4f30243bf2" />
+
 
 ## Technical Implementation
 
