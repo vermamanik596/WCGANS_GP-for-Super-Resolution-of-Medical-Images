@@ -57,9 +57,10 @@ The model was trained on the Chest X-Ray Pneumonia dataset, containing:
 
 ## Dataset Image
 - **Input**: Low-resolution medical image.
-![Figure-2: Low-Resolution](images/LR.jpg)
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/69cff3b6-a339-412e-8776-6135401d183f" />
+
 - **Output**: High-resolution reconstructed image.
-![Figure-3: High-Resolution](images/HR.jpg)
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/5251cd91-50de-4c01-827b-0d932751dd6c" />
 
 ## Training Methodology
 
