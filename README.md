@@ -7,8 +7,8 @@ This repository contains the implementation of Wasserstein Conditional Generativ
 Our approach combines the training stability of Wasserstein GANs with the enhanced feature preservation capabilities of self-attention mechanisms and spectral normalization, resulting in state-of-the-art performance for medical image enhancement.
 
 ## Model Architecture Diagram
+<img width="1072" height="720" alt="image" src="https://github.com/user-attachments/assets/4c765c4f-9c61-4330-9f25-5b390e069542" />
 
-![Figure-1: Model Architecture Diagram](images/Model_Flowchart.png)
 
 ## Key Features
 
